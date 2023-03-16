@@ -68,7 +68,7 @@ main {
     font-weight: 700;
     display: flex;
     gap: .7rem;
-    margin-bottom: 0rem;
+    margin-bottom: .4rem;
     color: hsl(229, 23%, 23%);
 }
 
